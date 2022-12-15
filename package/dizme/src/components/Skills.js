@@ -21,12 +21,9 @@ const Skills = ({ dark }) => {
                 data-wow-duration="1s"
                 data-align="left"
               >
-                <span>Design is Life</span>
-                <h3>I Develop Skills Regularly to Keep Me Update</h3>
-                <p>
-                  Most common methods for designing websites that work well on
-                  desktop is responsive and adaptive design
-                </p>
+                <span>.</span>
+                <h3>Beside of My teaching profession i like web desiging .Here is some of my working progress</h3>
+                
               </div>
               <div
                 className="dodo_progress wow fadeInUp"

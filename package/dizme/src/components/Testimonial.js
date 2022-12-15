@@ -30,8 +30,7 @@ const Testimonial = () => {
           <span>Testimonials</span>
           <h3>What My Clients Say</h3>
           <p>
-            Most common methods for designing websites that work well on desktop
-            is responsive and adaptive design
+            Best Teacher
           </p>
         </div>
         <div className="list_wrapper">
